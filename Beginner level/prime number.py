@@ -6,6 +6,6 @@ for i in range(2,a):
       flag=1
       break
 if(flag==0):
-   print("{0} is a prime number".format(a))
+   print("yes")
 else:
-  print("{0} is not a prime number".format(a))
+  print("no")
